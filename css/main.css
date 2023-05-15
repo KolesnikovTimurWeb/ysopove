@@ -11,6 +11,12 @@
 	font-style: normal;
 }
 @font-face {
+	font-family: 'Apoc-Revelations-Trail';
+	src: url('../font/Apoc-Revelations-Trial-Light.otf');
+	font-weight:300;
+	font-style: normal;
+}
+@font-face {
 	font-family: 'Inter';
 	src: url('../font/Inter-Italic.otf');
    font-style: italic;
@@ -107,7 +113,7 @@ input {
 }
 
 .global-text h1{
-	font-family: 'Apoc-Normal-Trail';
+	font-family: 'Apoc-Revelations-Trail';
 
    font-weight: 400;
    font-size: var(--h1-font-size);
@@ -246,7 +252,7 @@ input {
    text-align: center;
 }
 .about-text h3{
-	font-family: 'Apoc-Normal-Trail';
+	font-family: 'Apoc-Revelations-Trail';
 
    font-weight: 400;
    font-size: 48px;
@@ -366,7 +372,7 @@ input {
    padding-bottom: 80px;
 }
 .projects-title h2{
-	font-family: 'Apoc-Normal-Trail';
+	font-family: 'Apoc-Revelations-Trail';
 
    font-weight: 400;
    font-size: 64px;
@@ -492,7 +498,7 @@ input {
    padding-bottom: 80px;
 }
 .team-title h2{
-	font-family: 'Apoc-Normal-Trail';
+	font-family: 'Apoc-Revelations-Trail';
 
    font-weight: 400;
    text-align: center;
@@ -515,7 +521,7 @@ input {
 }
 
 .team-text h2{
-	font-family: 'Apoc-Normal-Trail';
+	font-family: 'Apoc-Revelations-Trail';
 
    font-weight: 400;
    font-size: 64px;
@@ -663,7 +669,7 @@ input {
    margin-bottom: 50px;
 }
 .me-paragraf h2{
-	font-family: 'Apoc-Normal-Trail';
+	font-family: 'Apoc-Revelations-Trail';
 
    font-weight: 400;
    font-size: 48px;
@@ -695,7 +701,7 @@ input {
 /* BLOG */
 
 .blog-title h2{
-	font-family: 'Apoc-Normal-Trail';
+	font-family: 'Apoc-Revelations-Trail';
 
    font-weight: 400;
    font-size: 64px;
@@ -761,7 +767,7 @@ input {
 }
 
 .contact-text h2{
-	font-family: 'Apoc-Normal-Trail';
+	font-family: 'Apoc-Revelations-Trail';
 
    font-weight: 400;
    font-size:48px;
