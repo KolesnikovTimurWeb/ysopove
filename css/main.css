@@ -28,7 +28,7 @@
 
 
 :root{
-	--h1-font-size: 64px;
+	--h1-font-size: 86px;
 	--h2-font-size: 25px;
 	--h3-font-size:30px;
 	--button-font-size:20px ;
@@ -302,7 +302,7 @@ input {
    padding: 0 20px;
    width: 100%;
    font-weight: 400;
-   font-size: 40px;
+   font-size: 32px;
    line-height: 110%;
    text-transform: uppercase; 
    padding-bottom: 10px;
@@ -342,12 +342,13 @@ input {
    align-items: center;   
 }
 .steps-img img{
+   transform: scale(0.8);
    height: 100%;
    object-fit: cover;
 }
 .steps-p p{
    font-weight: 400;
-   font-size: 14px;
+   font-size: 12px;
    line-height: 120%;
    /* identical to box height, or 22px */
 
@@ -422,7 +423,7 @@ input {
 .projects-slide img{
    width: 100%;
    object-fit: cover;
-   height: 650px;
+   height: 550px;
 }
 
 
@@ -502,7 +503,7 @@ input {
 
    font-weight: 400;
    text-align: center;
-   font-size: 40px;
+   font-size: 42px;
    line-height: 110%;
 
    text-transform: uppercase;
@@ -632,7 +633,7 @@ input {
 
 .number-item h2{
    font-weight: 400;
-   font-size: 76px;
+   font-size: 50px;
    text-transform: uppercase;
 
    color: #FFFFFF;
@@ -672,7 +673,7 @@ input {
 	font-family: 'Apoc-Revelations-Trail';
 
    font-weight: 400;
-   font-size: 48px;
+   font-size: 36px;
    line-height: 110%;
    text-transform: uppercase;
 
@@ -704,7 +705,7 @@ input {
 	font-family: 'Apoc-Revelations-Trail';
 
    font-weight: 400;
-   font-size: 64px;
+   font-size: 48px;
    text-align: center;
    text-transform: uppercase;
    margin-bottom: 60px;
@@ -770,7 +771,7 @@ input {
 	font-family: 'Apoc-Revelations-Trail';
 
    font-weight: 400;
-   font-size:48px;
+   font-size:36px;
    margin: 50px 0;
    text-align: center;
    text-transform: uppercase;
@@ -978,7 +979,7 @@ input {
    }
 
    .steps-item h2{
-      font-size: 34px;
+      font-size: 28px;
    }
    .global-link:hover .global-svg svg{
       margin-left: 5px;
